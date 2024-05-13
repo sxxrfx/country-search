@@ -1,0 +1,6 @@
+name  = "country-api"
+compatibility_date = "2024-05-10"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AYJUAAIncDFlZDQ4MDI2MjY1YTA0YWY5YWU5MmQzMzZmNTM3MjY2NnAxMzMzNjQ"
+UPSTASH_REDIS_REST_URL = "https://funky-mako-33364.upstash.io"
